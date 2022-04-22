@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 
+
 .post-it{
     font-family: 'Square Peg', cursive;
     font-size: 150%;
     position: relative;
     display: table;
     padding: 20px;
-    margin: 20px;
+    margin: 50px auto;
     width: 200px;
     background: #efc800;
     border-radius: 5px;
@@ -16,20 +17,23 @@
 
 .post-it-v1{
     background: #efc800;
-    transform: rotate(-1deg);
+    transform: rotate(-1deg) translate(20px, 0);    
 }
 
 .post-it-v2{
     background: #13ddc2;
-    transform: rotate(2deg);    
+    transform: rotate(2deg) translate(-20px, 0);
+    
 }
 
 .post-it-v3{
     background: #f00592;
-    transform: rotate(-3deg);    
+    transform: rotate(-3deg) translate(-10px, 0);
+    
 }
 
 .post-it-v4{
     background: #ef7700;
-    transform: rotate(-5deg);    
+    transform: rotate(-5deg) translate(20px, 0);
+    
 }
