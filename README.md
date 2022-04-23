@@ -4,7 +4,10 @@
 
 Template CSS for html block with style like post-it.
 
-- classes are added randomly
+- classes are last word of post's text(in spanish):
+importante, tarea, proyecto, idea or nota
+
+![alt text](./img/bytag.png "Title")
 
 ## Web Preview
 
