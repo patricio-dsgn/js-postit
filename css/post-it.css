@@ -15,25 +15,15 @@
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
-.post-it-v1{
-    background: #efc800;
-    transform: rotate(-1deg) translate(20px, 0);    
-}
+.post-importante {background: #efc800;}
+.post-tarea      {background: #13ddc2;}
+.post-proyecto   {background: #f00592;}
+.post-idea       {background: #ef7700;}
+.post-nota       {background: #06c355;}
 
-.post-it-v2{
-    background: #13ddc2;
-    transform: rotate(2deg) translate(-20px, 0);
-    
-}
 
-.post-it-v3{
-    background: #f00592;
-    transform: rotate(-3deg) translate(-10px, 0);
-    
-}
-
-.post-it-v4{
-    background: #ef7700;
-    transform: rotate(-5deg) translate(20px, 0);
-    
-}
+/* transform: rotate(-1deg) translate(20px, 0);    
+transform: rotate(2deg) translate(-20px, 0);
+transform: rotate(-3deg) translate(-10px, 0);
+transform: rotate(-5deg) translate(20px, 0);
+transform: rotate(-5deg) translate(20px, 0); */
