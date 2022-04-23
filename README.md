@@ -1,4 +1,4 @@
-<div style="margin-right: 30px;">
+<div style="background-color: red;">
 
 Markdown content goes here.
 
