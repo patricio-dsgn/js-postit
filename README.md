@@ -8,7 +8,7 @@ Template CSS for html block with style like post-it.
 
 ## Web Preview
 
-- [demo online](https://patricio-dsgn.github.io/postit/)
+- [demo online](https://patricio-dsgn.github.io/js-postit/)
 
 ## Image preview
 
